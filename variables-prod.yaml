@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb-prod.pavankumarmuvva.online  # submit your host
+REDIS_HOST: redis-prod.pavankumarmuvva.online 
+MYSQL_HOST: mysql-prod.pavankumarmuvva.online 
+RABBITMQ_HOST: rabbitmq-prod.pavankumarmuvva.online 
+CATALOGUE_HOST: catalogue-prod.pavankumarmuvva.online 
+USER_HOST: user-prod.pavankumarmuvva.online 
+CART_HOST: cart-prod.pavankumarmuvva.online 
+SHIPPING_HOST: shipping-prod.pavankumarmuvva.online 
+PAYMENT_HOST: payment-prod.pavankumarmuvva.online 
+DISPATCH_HOST: dispatch-prod.pavankumarmuvva.online 

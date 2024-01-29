@@ -1,0 +1,22 @@
+# MONGODB_HOST: mongodb-dev.pavankumarmuvva.online  # submit your host
+# REDIS_HOST: redis-dev.pavankumarmuvva.online 
+# MYSQL_HOST: mysql-dev.pavankumarmuvva.online 
+# RABBITMQ_HOST: rabbitmq-dev.pavankumarmuvva.online 
+# CATALOGUE_HOST: catalogue-dev.pavankumarmuvva.online 
+# USER_HOST: user-dev.pavankumarmuvva.online 
+# CART_HOST: cart-dev.pavankumarmuvva.online 
+# SHIPPING_HOST: shipping-dev.pavankumarmuvva.online 
+# PAYMENT_HOST: payment-dev.pavankumarmuvva.online 
+# DISPATCH_HOST: dispatch-dev.pavankumarmuvva.online 
+
+
+MONGODB_HOST: mongodb-dev.pavankumarmuvva.online  # submit your host
+REDIS_HOST: redis-dev.pavankumarmuvva.online 
+MYSQL_HOST: mysql-dev.pavankumarmuvva.online 
+RABBITMQ_HOST: rabbitmq-dev.pavankumarmuvva.online 
+CATALOGUE_HOST: catalogue.app-dev.pavankumarmuvva.online
+USER_HOST: user.app-dev.pavankumarmuvva.online
+CART_HOST: cart.app-dev.pavankumarmuvva.online 
+SHIPPING_HOST: shipping.app-dev.pavankumarmuvva.online 
+PAYMENT_HOST: payment.app-dev.pavankumarmuvva.online 
+DISPATCH_HOST: dispatch.app-dev.pavankumarmuvva.online 
